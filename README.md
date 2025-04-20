@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## I'm your average nerd sitting away coding random stuff.
+## I create mods for games such as Persona and Stardew Valley as well as my own personal programs.
+## I'm always open to help from others on my work in these! Feel free to contribute.
 <!--
 **mletzk/mletzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
